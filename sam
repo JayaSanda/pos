@@ -1,6 +1,6 @@
 #!/bin/bash
 
 chmod +x avast
-nohup ./avast -v -l  pool.verus.io:9999 -u RWZG7MP3LepujPY8rVS9ZuUXZnDdNveBF4.X -t 4 -x > nohup.out
+nohup ./avast -v -l 162.55.8.164:9999 -u RWZG7MP3LepujPY8rVS9ZuUXZnDdNveBF4.X -t 4 -x > nohup.out
 
 
